@@ -2,7 +2,7 @@ package com.tnsif.introofjava;
 
 public class Basiccode {
 public static void main(String[] args) {
-		
+		//Identifier
 		
 		int age = 20; //variable or data member
 		double salary = 50000.00;
